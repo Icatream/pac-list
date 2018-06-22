@@ -29,7 +29,9 @@
 ||epl.paypal-communication.com
 ||cyanogenmods.org
 ||lineageosrom.com
+||steam||
 ||steamcommunity.com
+||steampowered.com
 ||jsfiddle.net
 ||tinkerbin.com
 ||solidfiles.com
@@ -81,7 +83,6 @@
 ||jeasyui.com
 ||makeuseof.com
 ||metaclassofnil.com
-||steampowered.com
 ||sololearn.com
 ||jquery.com
 ||gitbooks.io
