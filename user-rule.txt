@@ -1,5 +1,6 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
+||dl.google.com
 ||.xyz
 ||amazon.com
 ||cyberpunk.net
