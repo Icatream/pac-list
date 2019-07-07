@@ -1,5 +1,6 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
+||wireguard.com
 ||rust-lang.org
 ||gradle.org
 ||pixiv.net
