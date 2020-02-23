@@ -26,6 +26,7 @@
 ||cyberpunk.net
 ||benchmark||
 ||restlet.com
+||gitlab-static.net
 ||gitlab.com
 ||wikipedia.org
 ||dev.mysql.com
@@ -71,6 +72,9 @@
 ||techpowerup.com
 ||ign.com
 ||softpedia.com
+||githubapp.com
+||githubassets.com
+||githubusercontent.com
 ||github.com
 ||github.io
 ||jydba.net
