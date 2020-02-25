@@ -5,9 +5,9 @@
 ||geeksforgeeks.org
 ||steamdb.info
 ||hexo.io
-||rust-lang.org
 ||tunsafe.com
 ||wireguard.com
+||discourse-cdn.com
 ||rust-lang.org
 ||gradle.org
 ||pixiv.net
