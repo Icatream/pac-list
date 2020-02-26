@@ -27,6 +27,7 @@
 ||cyberpunk.net
 ||benchmark||
 ||restlet.com
+||gitlab.io
 ||gitlab-static.net
 ||gitlab.com
 ||wikipedia.org
