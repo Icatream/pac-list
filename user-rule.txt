@@ -1,5 +1,10 @@
 ! Put user rules line by line in this file.
 ! See https://adblockplus.org/en/filter-cheatsheet
+||proofofexistence.com
+||shawntabrizi.com
+||parity.io
+||substrate.dev
+||eos.io
 ||fontawesome.com
 ||materializecss.com
 ||bulma.io
